@@ -34,7 +34,7 @@ pipeline {
     }
  post {
         always {
-            echo 'Cleanup after you!!!'
+            echo 'Cleanup after you and me and me!!!'
         }
     }
 }
